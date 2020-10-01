@@ -42,7 +42,7 @@ const NavBar = () => {
           <NavLink exact activeClassName="menu_active" className="nav-link" aria-current="page" to="/contact">Contact</NavLink>
         </li>
         <li className="nav-item">
-          <button className=" btn-danger btn-get-started scrollto ml-2"><AccessTimeIcon/> <Time/></button>
+         <button style={{color:"white"}} className=" btn-danger btn-get-started scrollto ml-2"><AccessTimeIcon/> <Time/></button>
         </li>
       
       
