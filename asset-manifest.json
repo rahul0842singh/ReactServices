@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ReactServices/static/css/main.d212a6a3.chunk.css",
-    "main.js": "/ReactServices/static/js/main.ee86b441.chunk.js",
-    "main.js.map": "/ReactServices/static/js/main.ee86b441.chunk.js.map",
+    "main.css": "/ReactServices/static/css/main.b579a05c.chunk.css",
+    "main.js": "/ReactServices/static/js/main.585dedea.chunk.js",
+    "main.js.map": "/ReactServices/static/js/main.585dedea.chunk.js.map",
     "runtime-main.js": "/ReactServices/static/js/runtime-main.dafd1d45.js",
     "runtime-main.js.map": "/ReactServices/static/js/runtime-main.dafd1d45.js.map",
     "static/css/2.ea6b7726.chunk.css": "/ReactServices/static/css/2.ea6b7726.chunk.css",
-    "static/js/2.0a615084.chunk.js": "/ReactServices/static/js/2.0a615084.chunk.js",
-    "static/js/2.0a615084.chunk.js.map": "/ReactServices/static/js/2.0a615084.chunk.js.map",
+    "static/js/2.322d08eb.chunk.js": "/ReactServices/static/js/2.322d08eb.chunk.js",
+    "static/js/2.322d08eb.chunk.js.map": "/ReactServices/static/js/2.322d08eb.chunk.js.map",
     "index.html": "/ReactServices/index.html",
-    "precache-manifest.ae0bc42e086f8a690e43c16f2a1d4b15.js": "/ReactServices/precache-manifest.ae0bc42e086f8a690e43c16f2a1d4b15.js",
+    "precache-manifest.87a01f949bfeecf786364e562c975c94.js": "/ReactServices/precache-manifest.87a01f949bfeecf786364e562c975c94.js",
     "service-worker.js": "/ReactServices/service-worker.js",
     "static/css/2.ea6b7726.chunk.css.map": "/ReactServices/static/css/2.ea6b7726.chunk.css.map",
-    "static/css/main.d212a6a3.chunk.css.map": "/ReactServices/static/css/main.d212a6a3.chunk.css.map",
-    "static/js/2.0a615084.chunk.js.LICENSE.txt": "/ReactServices/static/js/2.0a615084.chunk.js.LICENSE.txt",
+    "static/css/main.b579a05c.chunk.css.map": "/ReactServices/static/css/main.b579a05c.chunk.css.map",
+    "static/js/2.322d08eb.chunk.js.LICENSE.txt": "/ReactServices/static/js/2.322d08eb.chunk.js.LICENSE.txt",
     "static/media/about.png": "/ReactServices/static/media/about.619f0cc8.png",
     "static/media/angular.png": "/ReactServices/static/media/angular.22925b94.png",
     "static/media/hero.svg": "/ReactServices/static/media/hero.f702da24.svg",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.dafd1d45.js",
     "static/css/2.ea6b7726.chunk.css",
-    "static/js/2.0a615084.chunk.js",
-    "static/css/main.d212a6a3.chunk.css",
-    "static/js/main.ee86b441.chunk.js"
+    "static/js/2.322d08eb.chunk.js",
+    "static/css/main.b579a05c.chunk.css",
+    "static/js/main.585dedea.chunk.js"
   ]
 }
