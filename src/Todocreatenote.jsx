@@ -79,6 +79,24 @@ const Todocreatenote = (props) => {
           ) : null}
         </form>
       </div>
+            <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+
+      <div style={{fontSize:"25px"}} className="container-fluid p-4 bg-info text-white text-center">
+            Your Added List
+        </div>
       <br></br>
       <br></br>
       <br></br>
